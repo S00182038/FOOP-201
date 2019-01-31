@@ -1,0 +1,44 @@
+[
+  {
+    "AccountHolder": "Joe Bloggs",
+    "AccountNumber": "45670987",
+    "Balance": 1000.0,
+    "AccountType": "Current"
+  },
+  {
+    "AccountHolder": "Sally Jones",
+    "AccountNumber": "43470959",
+    "Balance": 500.0,
+    "AccountType": "Current"
+  },
+  {
+    "AccountHolder": "Jim Smith",
+    "AccountNumber": "72057823",
+    "Balance": 5000.0,
+    "AccountType": "Savings"
+  },
+  {
+    "AccountHolder": "Joe Bloggs",
+    "AccountNumber": "90807652",
+    "Balance": 650.56,
+    "AccountType": "Savings"
+  },
+  {
+    "AccountHolder": "Louise Dolan",
+    "AccountNumber": "87267575",
+    "Balance": 100.05,
+    "AccountType": "Student"
+  },
+  {
+    "AccountHolder": "Milly Durcan",
+    "AccountNumber": "79530812",
+    "Balance": 250.0,
+    "AccountType": "Student"
+  },
+  {
+    "AccountHolder": "tom doe",
+    "AccountNumber": "339933",
+    "Balance": 2340.0,
+    "AccountType": "Student"
+  }
+]
