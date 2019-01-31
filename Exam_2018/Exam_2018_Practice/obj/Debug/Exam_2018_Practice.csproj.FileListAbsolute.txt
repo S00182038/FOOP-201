@@ -1,0 +1,15 @@
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\bin\Debug\Exam_2018_Practice.exe.config
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\bin\Debug\Exam_2018_Practice.exe
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\bin\Debug\Exam_2018_Practice.pdb
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.csprojAssemblyReference.cache
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\MainWindow.g.cs
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\App.g.cs
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice_MarkupCompile.cache
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice_MarkupCompile.lref
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\MainWindow.baml
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.g.resources
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.Properties.Resources.resources
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.csproj.GenerateResource.cache
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.csproj.CoreCompileInputs.cache
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.exe
+C:\Users\s00182038\Desktop\FOOB Exam\Exam_2018\Exam_2018_Practice\obj\Debug\Exam_2018_Practice.pdb
